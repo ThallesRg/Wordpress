@@ -1,2 +1,2 @@
 # Wordpress
-Everything I created using Worpress
+List of everything I've ever created using wordpress:
